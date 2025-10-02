@@ -8,4 +8,4 @@ ii. Add to cart, update quantity, remove items
 iii. Persistent cart using localStorage
 iv. Light/Dark theme toggle for accessibility
 v. Fully responsive (mobile-first design)
-vi. Fast, single-page app experience with React
+
